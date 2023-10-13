@@ -1,12 +1,20 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+!+It's+been+a+while+!+%E2%9C%8C" alt="Typing SVG" /></a>  
-I'm Matheus, Currently I'm studying software devlopment, and at the free times I'm playing videogames and going for runs outdoors.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Seja+bem+vindo+!+%E2%9C%8C" alt="Typing SVG" /></a>
+
+Meu nome é Matheus, e atualmente estou cursando Análise e Desenvolvimento de Sistemas. No meu tempo livre curto jogar um pouco de video game, e toda manhã gosto de correr antes de começar a estudar.  
+
+I am Matheus, and I'm currently studying Systems Analysis and Development. In my free time, I enjoy playing video games, and every morning I like to go for a run before starting to study.
 
 ---
 
+⚡Uma breve introdução
+* 👔 Atualmente estou procurando por uma vaga na área de Desenvolvimento de Software para poder colocar todo meu conhecimento em prática  
+* 📚 Atualmente estou estudando Java e C# pela faculdade. E por fora estou fazendo um curso de TypeScript com React e NodsJs  
+* 🏃‍♂️Sou um corredor, e no momento estou tentando bater a meta de 10km em 50 minutos  
+
 ⚡A quick introduction
-* 👔I'm currently looking for a job into the development area to put my knowledge into practice.
-* 📚I'm currently studying Java and C#
-* 🏃‍♂️I'm a runner, and at the present I'm trying to reach the 10km mark.
+* 👔I'm currently looking for a job into the development area to put my knowledge into practice
+* 📚I am currently studying Java and C# through my college program. Additionally, I am taking a course on TypeScript with React and Node.js on the side
+* 🏃‍♂️I'm a runner, and at the present I'm trying to reach the 10km mark in 50 minutes
 
 ---
 
