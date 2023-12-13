@@ -1,13 +1,23 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Seja+bem+vindo+!+%E2%9C%8C" alt="Typing SVG" /></a>
 
+🚀 Software developer passionate about challenges and innovation! 🌐💻
+
+🔹 Hello! My name is Matheus, I'm 27 years old, and I am a technology enthusiast building a solid experience in software development. 🚀
+
+👩‍💻 Technical Experience:
+
+Spring Boot for building robust and efficient APIs.
+Dependency management with Maven, including JUnit for conducting unit tests, Lombok for reducing boilerplate code, and Spring Web to facilitate the use of Spring Boot.
+.NET ecosystem, where I utilized frameworks such as ASP.NET, employing Razor Pages, and programming in C#.
+Practice in clean code, version control with Git, and agile methodologies.
+
 🚀 Desenvolvedor de Software apaixonado por desafios e inovação! 🌐💻
 
-🔹 Olá ! Meu nome é Matheus, sou um entusiasta da tecnologia e estou construindo uma sólida experiência em desenvolvimento de software. 🚀
+🔹 Olá ! Meu nome é Matheus,tenho 27 anos e sou um entusiasta da tecnologia construindo uma sólida experiência em desenvolvimento de software. 🚀
 
 ---
 
-💼 Experiência Técnica:
-Proficiente em linguagens de programação como Java, C#, Python e JavaScript, linguagens de marcação como HTML e em linguagens de estilização como CSS.
+👩‍💻 Experiência Técnica:
 - Spring Boot para criação de APIs robustas e eficientes.
 - Gerenciamento de dependências com Maven, incluindo JUnit para realização de testes unitários, Lombok para redução de código boilerplate e Spring Web para facilitar o uso do SpringBoot.
 - Ecossistema .NET, onde utilizei frameworks como o ASP.NET, empregando Razor Pages e programação em C#.
