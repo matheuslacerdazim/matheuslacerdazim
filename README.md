@@ -1,8 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Seja+bem+vindo+!+%E2%9C%8C" alt="Typing SVG" /></a>
 
-Meu nome é Matheus, e atualmente estou cursando Análise e Desenvolvimento de Sistemas. No meu tempo livre curto jogar um pouco de video game, e toda manhã gosto de correr antes de começar a estudar.  
+🚀 Desenvolvedor de Software apaixonado por desafios e inovação! 🌐💻
 
-I am Matheus, and I'm currently studying Systems Analysis and Development. In my free time, I enjoy playing video games, and every morning I like to go for a run before starting to study.
+🔹 Olá ! Meu nome é Matheus, sou um entusiasta da tecnologia e estou construindo uma sólida experiência em desenvolvimento de software. 🚀
 
 ---
 
