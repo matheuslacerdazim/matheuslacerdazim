@@ -4,8 +4,6 @@
 
 🔹 Hello! My name is Matheus, I'm 27 years old, and I am a technology enthusiast building a solid experience in software development. 🚀
 
----
-
 👩‍💻 Technical Experience:
 
 - Spring Boot for building robust and efficient APIs.
@@ -18,8 +16,6 @@
 🚀 Desenvolvedor de Software apaixonado por desafios e inovação! 🌐💻
 
 🔹 Olá ! Meu nome é Matheus,tenho 27 anos e sou um entusiasta da tecnologia construindo uma sólida experiência em desenvolvimento de software. 🚀
-
----
 
 👩‍💻 Experiência Técnica:
 - Spring Boot para criação de APIs robustas e eficientes.
