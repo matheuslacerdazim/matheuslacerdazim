@@ -4,12 +4,16 @@
 
 🔹 Hello! My name is Matheus, I'm 27 years old, and I am a technology enthusiast building a solid experience in software development. 🚀
 
+---
+
 👩‍💻 Technical Experience:
 
-Spring Boot for building robust and efficient APIs.
-Dependency management with Maven, including JUnit for conducting unit tests, Lombok for reducing boilerplate code, and Spring Web to facilitate the use of Spring Boot.
-.NET ecosystem, where I utilized frameworks such as ASP.NET, employing Razor Pages, and programming in C#.
-Practice in clean code, version control with Git, and agile methodologies.
+- Spring Boot for building robust and efficient APIs.
+- Dependency management with Maven, including JUnit for conducting unit tests, Lombok for reducing boilerplate code, and Spring Web to facilitate the use of Spring Boot.
+- .NET ecosystem, where I utilized frameworks such as ASP.NET, employing Razor Pages, and programming in C#.
+- Practice in clean code, version control with Git, and agile methodologies.
+
+---
 
 🚀 Desenvolvedor de Software apaixonado por desafios e inovação! 🌐💻
 
