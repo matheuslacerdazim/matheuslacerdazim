@@ -6,15 +6,12 @@ I am Matheus, and I'm currently studying Systems Analysis and Development. In my
 
 ---
 
-⚡Uma breve introdução
-* 👔 Atualmente estou procurando por uma vaga na área de Desenvolvimento de Software para poder colocar todo meu conhecimento em prática  
-* 📚 Atualmente estou estudando Java e C# pela faculdade. E por fora estou fazendo um curso de TypeScript com React e NodsJs  
-* 🏃‍♂️Sou um corredor, e no momento estou tentando bater a meta de 10km em 50 minutos  
-
-⚡A quick introduction
-* 👔I'm currently looking for a job into the development area to put my knowledge into practice
-* 📚I am currently studying Java and C# through my college program. Additionally, I am taking a course on TypeScript with React and Node.js on the side
-* 🏃‍♂️I'm a runner, and at the present I'm trying to reach the 10km mark in 50 minutes
+💼 Experiência Técnica:
+Proficiente em linguagens de programação como Java, C#, Python e JavaScript, linguagens de marcação como HTML e em linguagens de estilização como CSS.
+- Spring Boot para criação de APIs robustas e eficientes.
+- Gerenciamento de dependências com Maven, incluindo JUnit para realização de testes unitários, Lombok para redução de código boilerplate e Spring Web para facilitar o uso do SpringBoot.
+- Ecossistema .NET, onde utilizei frameworks como o ASP.NET, empregando Razor Pages e programação em C#.
+- Prática em clean code, versionamento com Git, e metodologias ágeis.
 
 ---
 
